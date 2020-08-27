@@ -1,2 +1,2 @@
-# Valter-Vin-cius
+# Valter-Vinicius
 Apresentação do meus trabalhos.
