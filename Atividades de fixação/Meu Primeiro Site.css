@@ -1,0 +1,19 @@
+#Título1{
+    color: goldenrod;
+}
+
+#Ano{
+    color:goldenrod;
+}
+
+body{
+    background-color: rgb(255, 255, 255)243, 231, 231);
+}
+
+p{
+    background-color: goldenrod;
+    font-size: larger;
+    border: 1px solid;
+    padding: 5px;
+
+}
